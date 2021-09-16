@@ -1135,3 +1135,65 @@ font-size: 2rem;
 .map_and_address{
   margin: 2rem 0;
 }
+
+/* occasion boxes start here */
+
+.all_occasions_box{
+ /* background: rgb(241, 46, 112); */
+ background: rgb(101, 156, 213);
+  width: 100%;
+  height: 15rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  border-radius: 10px;
+}
+.all_occasions_box2{
+  background: rgb(241, 46, 112);
+  width: 100%;
+  height: 15rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  border-radius: 10px;
+}
+.all_occasions_box3{
+  background: rgb(27, 188, 156);
+  width: 100%;
+  height: 15rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  border-radius: 10px;
+}
+.hading_occasion h2{
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  border-bottom: 2px solid white;
+}
+/* .hading_occasion h2{
+  font-size: 1.5rem;
+  padding-left: 1rem;
+} */
+.occision_img1{
+  background-image: url('../images/flowers-bg2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height:17rem;
+ 
+}
+.occision_img2{
+background-image: url('../images/flowers-bg2.png');
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height:17rem;
+ 
+}
